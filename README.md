@@ -1,8 +1,21 @@
 # Bonjour, Hello, Hola
-<h3>I am Jabean you may refer to me as; JB or Jabean</h3>
-<p> Started coding around 2025, stopped and now returning to the coding world! <br> I have faith through Christ that I can become a fullstack programmer eventually but of course; I have to learn alot.</p>
+<h3>Who is...Jabean?</h3>
+<p> Hello my name is Jabean, I am a returning programmer with my road to fullstack with hope also in Christ. </p>
 
-Current Stack
--
-HTML
-,CSS
+<h4> Names prefered </h4>
+<p> Jabean or JB </p>
+<h4> Things I like: </h4>
+<ul>
+<li>Law Enforcement Games</li>
+<li> Coding </li>
+<li> Whom I love...Christ!</li>
+</ul>
+
+<h4> Current Coding Roadmap</h4>
+HTML - Completed <br>
+CSS - Completed <br>
+Javascript - Not Started <br>
+Python - Not Started <br>
+<small> more soon.... <br>
+<br>
+<small>Jabean's About Me (2026)
